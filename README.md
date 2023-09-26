@@ -23,4 +23,18 @@
 <br/>
 <br/>
 
-##
+### Mostly used languages
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0X4R&layout=compact" width="45%">&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api?username=R0X4R&show_icons=true" width="45%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0X4R">
+</p> -->
+
+```bash
+Bash                     5 commits           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   94% 
+Go                       1 commits           ░░░░░░░░░░░░░░░░░░░░   2.35%
+Python                   0 commits           ░░░░░░░░░░░░░░░░░░░░   2%  
+HTML                     3 commits           ░░░░░░░░░░░░░░░░░░░░   1% 
+Others                   n commits           ░░░░░░░░░░░░░░░░░░░░   0.35%
+```
