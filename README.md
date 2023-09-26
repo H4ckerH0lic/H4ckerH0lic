@@ -32,9 +32,9 @@
 </p> -->
 
 ```bash
-Bash                     5 commits           ![91]https://progress-bar.dev/91/
-Go                       1 commits           https://progress-bar.dev/0.1/
-Python                   0 commits           https://progress-bar.dev/20/  
-HTML                     3 commits           ░░░░░░░░░░░░░░░░░░░░   1% 
-Others                   n commits           ░░░░░░░░░░░░░░░░░░░░   0.35%
+Bash                     5 commits           █████████▒ 90%
+Go                       1 commits           █▒▒▒▒▒▒▒▒▒ 10%
+Python                   0 commits           ████▒▒▒▒▒▒ 40%  
+HTML                     3 commits           ██▒▒▒▒▒▒▒▒ 20% 
+Others                   n commits           ██▒▒▒▒▒▒▒▒ 20%
 ```
