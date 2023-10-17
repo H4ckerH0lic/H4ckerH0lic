@@ -1,17 +1,8 @@
-<style>
-  .orange-text {
-    color: orange;
-  }
-</style>
- <h1 align="center">
-<body>
-  <div class="orange-text">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0c0c0d&size=50&center=true&vCenter=true&width=450&lines=Hello+there!;+I'm+Sumeet+Singh">
-  </div>
-  &nbsp;
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-  </h1>
-  <p align="center">
+  <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0c0c0d&size=50&center=true&vCenter=true&width=450&lines=Hello+there!;+I'm+Sumeet+Singh">
+  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</h1>
+<p align="center">
 <img src="images/banner.png">
 </p>
   
