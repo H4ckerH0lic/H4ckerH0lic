@@ -3,7 +3,7 @@
   &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </h1>
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fhacker-typography-banner-vector-26175283&psig=AOvVaw1IE693OLwS2FGOHqPlRPqR&ust=1697638176344000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiCnZeh_YEDFQAAAAAdAAAAABAE">
+<img src="https://pbs.twimg.com/media/EyAeRWiWEAEHHTW?format=jpg&name=medium">
 </p>
   
 
